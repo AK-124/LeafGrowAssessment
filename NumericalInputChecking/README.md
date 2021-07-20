@@ -1,4 +1,4 @@
-#IntegrationTestingWithCypress.io
+#LeafGrowInputComponentTestWithCypress.io
 This repository contains the code to test input component using cypress.io
 
 #Prerequisites
@@ -11,8 +11,12 @@ This repository contains the code to test input component using cypress.io
 The input component is tested. NumericalInputChecking folder is created.
 In Integration folder, test cases for the input components are created in .js file which is named as *TestCasesForInputComponent.spec.js*
 
-#Build Project
+#Project Path:
 
+NumericalCheckingInput Folder --> cypress --> integration --> TestCasesForInputComponent.spec.js
+
+
+#Build Project
 1. Clone Repository
 2. git clone https://github.com/AK-124/LeafGrowInputComponentTest
 3. Build Project
@@ -27,7 +31,7 @@ In Integration folder, test cases for the input components are created in .js fi
 #NOTE:
 1. All test cases are given in one TestCasesForInputComponent.spec.js FILE. 
 2. There are 7 test cases and all test steps were intended to be written in separate.js files 
-3. But there was some error occuring with the assertion while using the similar test steps.
+3. But there was some error occurring with the assertion while using the similar test steps.
 4. Due to time constraint, I added different test cases with their test steps in one file. 
 
 
