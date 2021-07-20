@@ -12,7 +12,6 @@ The input component is tested. NumericalInputChecking folder is created.
 In Integration folder, test cases for the input components are created in .js file which is named as *TestCasesForInputComponent.spec.js*
 
 #Project Path:
-
 NumericalCheckingInput Folder --> cypress --> integration --> TestCasesForInputComponent.spec.js
 
 
